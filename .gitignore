@@ -1,0 +1,10 @@
+# Ignore build, binaries, and intermediate files
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+*.suo
+*.user
+*.opensdf
